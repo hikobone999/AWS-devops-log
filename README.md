@@ -27,3 +27,10 @@
 - [X（学習ログ）ひこ/AWS学習中](https://twitter.com/HIKO99073720)
 - [CloudQuest 成果まとめ](#)（後日追加予定）
 
+### 📘 Day 0(2025.05.11)｜環境準備完了ログ
+
+- GitHubプロフ／README整備 ✅
+- AWS CloudQuest 起動＆2課題 ✅
+- Git BashでLinuxコマンド練習（mkdir / cd / rm など）✅
+- 明日からPhase Aスタート予定！
+
